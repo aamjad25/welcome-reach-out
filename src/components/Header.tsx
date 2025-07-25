@@ -8,7 +8,7 @@ const navItems = [
   { name: 'Solutions', href: '#advantages' },
   { name: 'Case Studies', href: '/case-studies' },
   { name: 'News', href: '#news' },
-  { name: 'Contact', href: '#contact' }
+  { name: 'Contact', href: '/contact' }
 ];
 
 export function Header() {
